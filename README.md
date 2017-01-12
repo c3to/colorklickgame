@@ -1,2 +1,2 @@
-# colourklickgame
+# colorklickgame
 best game ever
